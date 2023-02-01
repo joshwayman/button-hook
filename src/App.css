@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0rem;
+  text-align: center;
+}
+
+html, body {
+  background-color: transparent;
+}
+span {
+  display: none;
+}
